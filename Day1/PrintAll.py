@@ -1,0 +1,4 @@
+arr = [5,6,2,4,7]
+
+for num in arr:
+    print(num,end = ',')
